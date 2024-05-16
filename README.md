@@ -37,10 +37,10 @@ EduPulse is a modern e-learning platform designed to enhance online education th
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/4ebd1bd0-07b5-47a0-9a12-6dee35057ecb" alt="Screenshot 2024-05-16 201650" />
+      <img src="https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/33a50969-4339-495f-9745-ee8ffb4f925d" alt="Screenshot 2024-05-16 201650" />
     </td>
     <td align="center">
-      <img src="https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/26680fef-218f-42e4-a11c-295e1555c4a8" alt="Screenshot 2024-05-16 201715" />
+      <img src="https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/4ebd1bd0-07b5-47a0-9a12-6dee35057ecb" alt="Screenshot 2024-05-16 201650" />
     </td>
   </tr>
   <tr>
