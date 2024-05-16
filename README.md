@@ -45,6 +45,9 @@ EduPulse is a modern e-learning platform designed to enhance online education th
   </tr>
   <tr>
     <td align="center">
+       <img src="https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/26680fef-218f-42e4-a11c-295e1555c4a8" alt="Screenshot 2024-05-16 201715" />
+    </td>
+    <td align="center">
       <img src="https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/138cf59a-1f26-4ad3-b02c-0c8be5fa67a2" alt="Screenshot 2024-05-16 201754" />
     </td>
   </tr>
@@ -114,22 +117,6 @@ Contributions to EduPulse are welcome! If you'd like to contribute to the projec
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-![Screenshot 2024-05-16 195703](https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/d5c8cb9f-4c68-4894-b2f8-c468effd585f)
-![Screenshot 2024-05-16 195757](https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/7d99fefd-29f4-4d3b-a53d-b1add44c1dcd)
-![Screenshot 2024-05-16 200000](https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/f3f9607f-ef97-4b62-ab4f-b72b6c01d013)
 
-![Screenshot 2024-05-16 200101](https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/7701f419-6253-4717-a04e-bb219a59a321)
-
-![Screenshot 2024-05-16 200132](https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/a6d6fd19-850d-4aa5-b8f5-56c0f7cf8b7b)
-
-![Screenshot 2024-05-16 200216](https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/d1585b54-29db-4d76-bccc-983bc180db8b)
-
-
-![Screenshot 2024-05-16 200247](https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/e7f6b866-12b4-4273-8759-6f7a0cdccbc5)
-![Screenshot 2024-05-16 200330](https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/6febc684-daf0-42c5-95f7-9d36ae4118cb)
-![Screenshot 2024-05-16 201650](https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/4ebd1bd0-07b5-47a0-9a12-6dee35057ecb)
-
-
-![Screenshot 2024-05-16 201715](https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/26680fef-218f-42e4-a11c-295e1555c4a8)
-![Screenshot 2024-05-16 201754](https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/138cf59a-1f26-4ad3-b02c-0c8be5fa67a2)
+![Screenshot 2024-05-16 213552](https://github.com/SarangaSiriwardhana9/EduPulse-Microservices-EducationPlatform/assets/99233703/33a50969-4339-495f-9745-ee8ffb4f925d)
 
