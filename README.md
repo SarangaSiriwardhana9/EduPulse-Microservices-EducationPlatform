@@ -1,15 +1,20 @@
-# EduPulse - Microservices Architecture
+# EduPulse-Online Learning Management System With Microservices Architecture
 
-EduPulse is an educational platform built using microservices architecture. It offers a wide range of courses to learners, allowing them to browse, enroll, and access courses conveniently. This README provides an overview of the project structure and its components.
+EduPulse is a modern e-learning platform designed to enhance online education through a microservices architecture. The platform provides a seamless interface for learners to browse, enroll in, and access courses, while offering robust tools for instructors and administrators to manage course content and student progress.
+
+## Features
+
+- **User Management**: User registration, authentication, and profile management.
+- **Course Management**: Manage course information, content, enrollment, and progress tracking.
+- **Payment Integration**: Process payments using Stripe.
+- **Email Notifications**: Send email notifications via Mailgun.
+- **Responsive Design**: User-friendly interface supporting various devices.
+- **Role-Based Access**: Different roles (learner, instructor, admin) with specific permissions and functionalities.
+
 
 ## Architecture Overview
 
 The architecture of EduPulse is designed as a set of microservices, each responsible for a specific domain within the platform. The main microservices include:
-
-- **User Management**: Handles user registration, authentication, and profile management.
-- **Course Management**: Manages course information, content, enrollment, and progress tracking.
-- **Payment Management**: Integrates with Stripe payment service for processing course payments.
-- **Email Service**: Utilizes Mailgun for sending email notifications to users.
 
 Each microservice is containerized using Docker for easy deployment and scalability. Communication between microservices is established via RESTful API endpoints.
 
@@ -44,6 +49,14 @@ To deploy the platform locally, follow these steps:
 2. Navigate to the root directory of the project.
 3. Run `docker-compose up` to start all services.
 4. Access the services through their respective ports.
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/en/)
+- [Docker](https://www.docker.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Stripe Account](https://stripe.com/)
+- [Mailgun Account](https://www.mailgun.com/)
 
 ## Contributing
 
