@@ -1,0 +1,53 @@
+version: '3'
+
+services:
+  user-managment:
+    build:
+      context: ./user-managment
+      dockerfile: Dockerfile
+    ports:
+      - "7073:7073" 
+    environment:
+      PORT: 7073
+      MONGODB_URI: ${MONGODB_URI}
+      JWT_SECRET: ${JWT_SECRET}
+      API_KEY: ${API_KEY}
+      DOMAIN: ${DOMAIN}
+      STRIPE_SECRET_KEY: ${STRIPE_SECRET_KEY}
+    volumes:
+      - shared-data:/shared
+
+  course-management:
+    build:
+      context: ./course-management
+      dockerfile: Dockerfile
+    ports:
+      - "7071:7071"  
+    environment:
+      PORT: 7071
+      MONGODB_URI: ${MONGODB_URI}
+      JWT_SECRET: ${JWT_SECRET}
+      API_KEY: ${API_KEY}
+      DOMAIN: ${DOMAIN}
+      STRIPE_SECRET_KEY: ${STRIPE_SECRET_KEY}
+    volumes:
+      - shared-data:/shared
+
+  payment-management:
+    build:
+      context: ./payment-management
+      dockerfile: Dockerfile
+    ports:
+      - "7072:7072"  
+    environment:
+      PORT: 7072
+      MONGODB_URI: ${MONGODB_URI}
+      JWT_SECRET: ${JWT_SECRET}
+      API_KEY: ${API_KEY}
+      DOMAIN: ${DOMAIN}
+      STRIPE_SECRET_KEY: ${STRIPE_SECRET_KEY}
+    volumes:
+      - shared-data:/shared
+
+volumes:
+  shared-data:
